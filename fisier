@@ -50,12 +50,15 @@ public class Application {
                 break;
             }
             case(2):{
+<<<<<<< HEAD
                 state.writeComment(currentUsername, anotherUsername);
                 friendsProfileMenu(currentUsername, anotherUsername);
                 System.out.println();
                 break;
             }
             case(3):{
+=======
+>>>>>>> master
                 break;
             }
             default:{
