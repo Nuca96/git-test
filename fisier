@@ -52,6 +52,7 @@ public class Application {
             case(2):{
                 state.writeComment(currentUsername, anotherUsername);
                 friendsProfileMenu(currentUsername, anotherUsername);
+                System.out.println();
                 break;
             }
             case(3):{
