@@ -1,0 +1,2 @@
+incrementa int -> int
+incrementa x = x + 1
