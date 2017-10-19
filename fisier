@@ -122,17 +122,6 @@ public class Application {
                 break;
             } 
             case(2):{
-                user=state.createAccount();
-                if(user.isEmpty()){
-                    mainMenu();
-                }
-                else{
-                    myProfileMenu(user);
-                    mainMenu();
-                }
-                break;
-            }
-            case(3):{
                 break;
             }
             default:{
